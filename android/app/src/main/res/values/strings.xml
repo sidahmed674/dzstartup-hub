@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DzStartupHub</string>
+    <string name="title_activity_main">DzStartupHub</string>
+    <string name="package_name">com.dzstartup.hub</string>
+    <string name="custom_url_scheme">com.dzstartup.hub</string>
+</resources>
